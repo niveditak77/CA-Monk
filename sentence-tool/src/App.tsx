@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import Navbar from './components/Navbar';
 import { HiPencilSquare,  HiHome } from "react-icons/hi2";
 import { FaCoins } from "react-icons/fa";
